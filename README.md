@@ -12,5 +12,5 @@ This program computes the logistic map equation and plots the chaotic nature of 
 **In the spirit of not spoiling the fun, this repository remains private**
 *  Project Euler is a series of challenging mathematical/computer programming problems that will require more than just mathematical insights to solve. Although mathematics will help you arrive at elegant and efficient methods, the use of a computer and programming skills will be required to solve most problems.
 
-### [4. Plotting Prime numbers](https://github.com/M87K452b/plotting-primes)
+### 4. [Plotting Prime numbers](https://github.com/M87K452b/plotting-primes)
 * Plotting prime numbers on polar coordinates inspired by a video done on 3b1b

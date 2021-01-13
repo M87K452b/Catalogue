@@ -16,3 +16,4 @@ This program computes the logistic map equation and plots the chaotic nature of 
 * Plotting prime numbers on polar coordinates inspired by a video done on 3b1b
 
 ### 5. [Lattice Boltzmann Modelling for FLow around an obstacle](https://github.com/M87K452b/LatticeBoltzmann-flowaroundobstacle)
+* Computation of flow around an obstacle using Lattice-Boltzmann method which is based on lattice gas automata.

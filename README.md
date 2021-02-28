@@ -1,6 +1,8 @@
-# Python-Projects
+# Maths and Scientific computing
 
 ## Follow links (Click on the project name) to interested projects.
+
+### Python-Projects
 
 ### 1. [Mandelbrot-set](https://github.com/M87K452b/Mandelbrot-set)
 This program computes mandelbrot set (a fractal) for a given set of co-ordinates.

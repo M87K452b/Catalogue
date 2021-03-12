@@ -19,3 +19,6 @@ This program computes the logistic map equation and plots the chaotic nature of 
 
 ### 5. [Lattice Boltzmann Modelling for FLow around an obstacle](https://github.com/M87K452b/LatticeBoltzmann-flowaroundobstacle)
 * Computation of flow around an obstacle using Lattice-Boltzmann method which is based on lattice gas automata.
+
+### 6. [Estimate-Pi](https://github.com/M87K452b/Estimate-Pi)
+**This code is an interactive application that estimates the value of pi using the unit square unit circle method.**

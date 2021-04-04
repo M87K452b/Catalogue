@@ -17,7 +17,7 @@ This program computes the logistic map equation and plots the chaotic nature of 
 ### 4. [Plotting Prime numbers](https://github.com/M87K452b/plotting-primes)
 * Plotting prime numbers on polar coordinates inspired by a video done on 3b1b
 
-### 5. [Lattice Boltzmann Modelling for FLow around an obstacle](https://github.com/M87K452b/LatticeBoltzmann-flowaroundobstacle)
+### 5. [Lattice Boltzmann Modelling for Flow around an obstacle](https://github.com/M87K452b/LatticeBoltzmann-flowaroundobstacle)
 * Computation of flow around an obstacle using Lattice-Boltzmann method which is based on lattice gas automata.
 
 ### 6. [Estimate-Pi](https://github.com/M87K452b/Estimate-Pi)

@@ -2,7 +2,7 @@
 
 ## p5.js is a JavaScript library for creative coding, with a focus on making coding accessible and inclusive for artists, designers, educators, beginners, and anyone else!
 
-### [Flow filed using noise](https://github.com/M87K452b/Flow-field-using-noise)
+### [Flow field using noise](https://github.com/M87K452b/Flow-field-using-noise)
 
 ### [Digital rain](https://github.com/M87K452b/raining-food)
 

@@ -10,6 +10,8 @@
 
 ### [Compute Pi using poloygons](https://github.com/M87K452b/compute_Pi_using_polygons)
 
+### [Flocking Simulations using quadtree](https://github.com/M87K452b/flocking-quadtree)
+
 ## MOOCs / courses
 
 ### [Creative Coding (NYUx) on EdX](https://github.com/M87K452b/creative-coding-itp-nyu-edx)
